@@ -1,5 +1,7 @@
 .header {
-    width: 24%;
+    width: 400px;
+    min-width: 24%;
+    max-width: 24%;
     margin-left: 28%;
     float: left;
     padding-right: 40px;
