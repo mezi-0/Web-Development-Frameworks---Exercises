@@ -1,0 +1,4 @@
+.dataShow {
+  display: flex;
+  flex-wrap: wrap;
+}

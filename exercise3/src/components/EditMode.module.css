@@ -1,0 +1,14 @@
+.itemsList {
+    margin-left: 40%;
+}
+.disableButton {
+    padding: 10px;
+    width: 40%;
+    background-color: orange;
+}
+
+.list {
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

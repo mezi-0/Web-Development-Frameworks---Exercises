@@ -1,0 +1,37 @@
+.searchField {
+    width: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+
+.addNewItem {
+    margin-top: 30px;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.newItemName {
+    padding: 5px;
+}
+
+.newItemPrice {
+    padding: 5px;
+}
+
+.newItemProc {
+    padding: 5px;
+}
+
+.newItemGraph {
+    padding: 5px;
+}
+
+.deleteButton {
+    margin-top: 10px;
+    text-align: center;
+}

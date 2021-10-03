@@ -1,0 +1,63 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "HP PAVILION TG01-1414NO",
+            "price": 899,
+            "desc_processor": "Intel Core i5-10400F",
+            "desc_graphCard": "NVIDIA GeForce GTX 1650",
+            "type": "Computer",
+            "image": "image1.png"
+        },
+
+        {
+            "id": 2,
+            "name": "HP 14S-FQ0443NO 14",
+            "price": 629,
+            "desc_processor": "AMD Ryzen 5 4500U",
+            "desc_graphCard": "",
+            "type": "Computer",
+            "image": "image2.png"
+        },
+
+        {
+            "id": 3,
+            "name": "ASUS ROG ZEPHYRUS G14",
+            "price": 2299,
+            "desc_processor": "AMD Ryzen 9 5900HS",
+            "desc_graphCard": "NVIDIA GeForce RTX 3060",
+            "type": "Computer",
+            "image": "image3.png"
+        },
+
+        {
+            "id": 4,
+            "name": "ASUS TUF GAMING DASH F15",
+            "price": 1129,
+            "desc_processor": "Intel Core i5-11300H",
+            "desc_graphCard": "NVIDIA GeForce RTX 3060",
+            "type": "Computer",
+            "image": "image4.png"
+        },
+
+        {
+            "id": 5,
+            "name": "MEDION ERAZER ENGINEER P10",
+            "price": 1699,
+            "desc_processor": "Intel Core i7-10700F",
+            "desc_graphCard": "NVIDIA GeForce RTX 3060",
+            "type": "Computer",
+            "image": "image5.png"
+        },
+
+        {
+            "id": 6,
+            "name": "HP SLIM S01-AF0452NO",
+            "price": 399,
+            "desc_processor": "AMD Athlon 3050U",
+            "desc_graphCard": "",
+            "type": "Computer",
+            "image": "image6.png"
+        }
+    ]
+}
