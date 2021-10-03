@@ -1,12 +1,15 @@
 .item
 {
-  background-color: pink;
-  margin-bottom: 5px;      
+
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 10px;
 }
 
 .item > div
 {
-  margin-left: 4px;
+  margin-left: 10px;
+  
 }
 
 .flex
@@ -16,5 +19,21 @@
 
 .itemQtyUnit
 {
-  width: 30px;    
+  font-size: 20px;
+  background-color: wheat;
+  border-radius: 15px;
+  text-align: center;
+  width: 10%;
+  padding-left: 10px;
+}
+
+.value {
+  background-color: lightpink;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 30%;
+  text-align: center;
+  border-radius: 15px;
+
 }

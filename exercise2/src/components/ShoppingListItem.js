@@ -2,7 +2,6 @@ import React from "react";
 import styles from './ShoppingListItem.module.css';
 import cx from 'classnames';
 
-/* Shopping list item */
 const ShoppingListItem = props => {
   return <li className={ cx(styles.flex, styles.item) }>
     <div className={ cx(styles.flex, styles.itemQtyUnit) }>
@@ -13,7 +12,7 @@ const ShoppingListItem = props => {
         { props.unit }
       </div>
     </div>
-    <div>
+    <div className = { styles.value }>
       { props.value}
     </div>
   </li>
